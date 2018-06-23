@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Documents and Settings/t_vaidhyanathan/Desktop/work/java/FILE-COUNTER/SLOCCounter/lib/looks-2.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Documents and Settings/t_vaidhyanathan/Desktop/work/java/FILE-COUNTER/SLOCCounter/lib/poi-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="D:/Documents and Settings/t_vaidhyanathan/Desktop/work/java/FILE-COUNTER/SLOCCounter/lib/poi-contrib-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="D:/Documents and Settings/t_vaidhyanathan/Desktop/work/java/FILE-COUNTER/SLOCCounter/lib/poi-scratchpad-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
